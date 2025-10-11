@@ -1,0 +1,1 @@
+# elastic-face-recognition-app-aws
